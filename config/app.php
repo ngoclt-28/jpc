@@ -26,7 +26,7 @@ return [
 	|
 	*/
 
-	'url' => 'http://localhost',
+	'url' => 'https://sheltered-taiga-80346.herokuapp.com/',
 
 	/*
 	|--------------------------------------------------------------------------
